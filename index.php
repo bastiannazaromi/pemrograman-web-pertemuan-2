@@ -5,6 +5,8 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Halam Login</title>
+
+	<link rel="stylesheet" type="text/css" href="src/style.css">
 </head>
 
 <body>
@@ -16,8 +18,10 @@
 		<label for="password">Password</label><br>
 		<input type="password" id="password" name="password" required autocomplete="off"><br><br>
 
-		<button type="button" class="button" id="loginButton">Login</button>
+		<button type="button" id="loginButton">Login</button>
 	</form>
+
+	<script src="src/script.js"></script>
 </body>
 
 </html>
