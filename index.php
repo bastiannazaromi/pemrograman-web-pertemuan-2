@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Halam Login</title>
+	<title>Halaman Login</title>
 
 	<link rel="stylesheet" type="text/css" href="src/style.css">
 </head>
